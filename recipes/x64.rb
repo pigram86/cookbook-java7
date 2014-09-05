@@ -18,7 +18,7 @@
 #
 
 # Instal javase
-windows_package "jre-7u45-windows-x64" do
+windows_package "Java 7 Update 45 (64-bit)" do
   source node['url']['x64']
   options "/s"
   installer_type :custom

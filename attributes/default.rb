@@ -16,7 +16,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-default['url']['x64'] = "https://dl.dropboxusercontent.com/u/36379525/jre-7u45-windows-x64.exe"
-default['url']['x86'] = "https://dl.dropboxusercontent.com/u/36379525/jre-7u45-windows-i586.exe"
+default['url']['x64'] = "https://dl.dropboxusercontent.com/u/36379525/jre-7u67-windows-x64.exe"
+default['url']['x86'] = "https://dl.dropboxusercontent.com/u/36379525/jre-7u67-windows-i586.exe"
 default['java64']['policy'] = "HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\JavaSoft\\Java Update\\Policy"
 default['java64']['file'] = "C:\\Program Files\\Java\\jre7\\bin\\java.exe"

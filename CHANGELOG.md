@@ -2,8 +2,6 @@
 
 Initial release of java7
 
-* Enhancements
-  * an enhancement
+# 0.4.0
 
-* Bug Fixes
-  * a bug fix
+Change URL to latest version Java 7 u67
